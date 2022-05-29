@@ -1,3 +1,21 @@
+## About the project
+Simple full stack challenge, for managing banners and campaigns.
+Technologies: PHP Laravel framework, JS Vue framework, SQLite database 
+
+To Set up the project in your local envirement, please make sure you have already installed
+PHP 8.x and SQLite in your OS. Then follow to steps below:
+
+- `git clone https://github.com/minas1991/laravel_vue_crud.git` or download the project from the link  https://github.com/minas1991/laravel_vue_crud
+- Go to project root and run the command: `cd laravel_vue_crud`
+- Create .env file from .env.example: `cp .env.example .env`
+- To run project you can use the command `php artisan serve` from the project root folder
+- To run UNIT tests you can use the command `php artisan test`
+
+##
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
