@@ -2,28 +2,20 @@
 Simple full stack challenge, for managing banners and campaigns.
 Technologies: PHP Laravel framework, JS Vue framework, SQLite database 
 
-To Set up the project in your local envirement, please make sure you have already installed
-PHP 8.x and SQLite in your OS. Then follow to steps below:
+To Set up the project in your local environment, please make sure you have already installed
+PHP 8.x, composer and SQLite in your OS. Then follow to steps below:
 
 - `git clone https://github.com/minas1991/laravel_vue_crud.git` or download the project from the link  https://github.com/minas1991/laravel_vue_crud
-- Go to project root and run the command: `cd laravel_vue_crud`
+- Go to the project root and run the command: `cd laravel_vue_crud`
+- Install dependencies `composer install`
 - Create .env file from .env.example: `cp .env.example .env`
-- To run project you can use the command `php artisan serve` from the project root folder
+- To run the project you can use the command `php artisan serve` from the project root folder
 - To run UNIT tests you can use the command `php artisan test`
+
+For client side testing you can use the link: https://full-stack-challenge.onestop.la 
 
 ##
 
-
-
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
 ## About Laravel
 
